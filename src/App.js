@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Link, Route, Routes } from 'react-router-dom';
 import routes from './route';
 
 function App() {
-  console.log("数据", routes)
   return (
     <Router>
 
